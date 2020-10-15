@@ -1,3 +1,3 @@
-# Write your solution here
+purs "Hello World!"
 
 # This file should output "Hello World!" using a puts statement
